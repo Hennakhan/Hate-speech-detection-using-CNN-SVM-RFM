@@ -13,6 +13,9 @@ $ cd keras-flask-deploy-webapp
 # 2. Install Python packages
 $ pip install -r requirements.txt
 
+#3. Download Word2vec pretrained  model (GoogleNews-vectors-negative300.bin.gz) and store it in main folder "Hate-speech-detection-using-CNN-SVM-RFM-model"
+download from: https://github.com/mmihaltz/word2vec-GoogleNews-vectors
+
 # 3. Run!
 $ Run jupyter notebook "Task 1 - TextClassification_CNN_SVM_RFM.ipynb" or "Task 2 - TextClassification_CNN_SVM_RFM.ipynb"
 
