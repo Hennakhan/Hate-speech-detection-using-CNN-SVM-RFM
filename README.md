@@ -20,5 +20,6 @@ download from: https://github.com/mmihaltz/word2vec-GoogleNews-vectors
 $ Run jupyter notebook "Task 1 - TextClassification_CNN_SVM_RFM.ipynb" or "Task 2 - TextClassification_CNN_SVM_RFM.ipynb"
 
 #4. Done
+```
 
 Note: You can replace the data file with your dataset and change the name of the file you are reading in the beginning (2nd cell) of "Task 1 - TextClassification_CNN_SVM_RFM.ipynb"
