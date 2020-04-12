@@ -7,8 +7,8 @@ Run your code
 
 ```shell
 # 1. First, clone the repo
-$ git clone https://github.com/mtobeiyf/keras-flask-deploy-webapp.git
-$ cd keras-flask-deploy-webapp
+$ git clone https://github.com/Hennakhan/Hate-speech-detection-using-CNN-SVM-RFM-model.git
+$ cd Hate-speech-detection-using-CNN-SVM-RFM-model
 
 # 2. Install Python packages
 $ pip install -r requirements.txt
