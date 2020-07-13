@@ -39,4 +39,9 @@ accuracy for task 1 SVM model is same as average 10-fold validation of 54%, task
 10-fold validation of 50%, and for task 2 RFM model is 4% below average 10-fold validation of
 54%. We have also implemented SVM using bag of words our accuracy is 51% for Task 1 and
 52% for Task 2.
-![Hatespeech](Hatespeech.PNG)
+
+<img src="Hatespeech.PNG" width="600" height="200" />
+
+Reference:
+[1] David Gilbert. The vice - facebook in india is drowning in anti-muslim hate speech.
+
